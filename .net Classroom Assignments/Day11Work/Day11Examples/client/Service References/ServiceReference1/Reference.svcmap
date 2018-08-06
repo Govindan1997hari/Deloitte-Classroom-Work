@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1b9fd9b2-ebd5-4613-bc34-42982d3aee25" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53465/HostCalculatorLibrary.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="calculator.wsdl" MetadataType="Wsdl" ID="377bc9b0-f5b8-4015-a9ce-a27d27ff2622" SourceId="1" SourceUrl="http://localhost:53465/HostCalculatorLibrary.svc?wsdl" />
+    <MetadataFile FileName="HostCalculatorLibrary.xsd" MetadataType="Schema" ID="3d277b09-edbb-4913-a9c2-37248eb73f4a" SourceId="1" SourceUrl="http://localhost:53465/HostCalculatorLibrary.svc?xsd=xsd2" />
+    <MetadataFile FileName="HostCalculatorLibrary1.xsd" MetadataType="Schema" ID="29ace698-eb16-42cd-bf87-1e3afca9e6e5" SourceId="1" SourceUrl="http://localhost:53465/HostCalculatorLibrary.svc?xsd=xsd0" />
+    <MetadataFile FileName="HostCalculatorLibrary.disco" MetadataType="Disco" ID="08167ada-1a9f-4596-bbbe-97a7e728f56c" SourceId="1" SourceUrl="http://localhost:53465/HostCalculatorLibrary.svc?disco" />
+    <MetadataFile FileName="HostCalculatorLibrary2.xsd" MetadataType="Schema" ID="b1db6de2-1aeb-47c8-b724-729fc4654ff6" SourceId="1" SourceUrl="http://localhost:53465/HostCalculatorLibrary.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

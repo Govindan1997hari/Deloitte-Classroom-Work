@@ -1,0 +1,6 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\XmlIncsharp\bin\Debug\XmlIncsharp.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\XmlIncsharp\bin\Debug\XmlIncsharp.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\XmlIncsharp\bin\Debug\XmlIncsharp.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\XmlIncsharp\obj\Debug\XmlIncsharp.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\XmlIncsharp\obj\Debug\XmlIncsharp.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\XmlIncsharp\obj\Debug\XmlIncsharp.pdb

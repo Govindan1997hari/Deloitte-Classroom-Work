@@ -1,0 +1,10 @@
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day5assignment\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

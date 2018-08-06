@@ -1,0 +1,6 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\delegateExamples\bin\Debug\delegateExamples.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\delegateExamples\bin\Debug\delegateExamples.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\delegateExamples\bin\Debug\delegateExamples.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\delegateExamples\obj\Debug\delegateExamples.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\delegateExamples\obj\Debug\delegateExamples.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\delegateExamples\obj\Debug\delegateExamples.pdb

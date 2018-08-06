@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#b1").click(function () {
+                $("p").show();
+                $("div").show();
+                $("label").show();
+                $("input:text").show();
+                $("ol").show();
+            });
+            $("#b2").click(function () {
+                $("p").hide();
+                $("div").hide();
+                $("label").hide();
+                $("input:text").hide();
+                $("ol").hide();
+            });
+        });
+    </script>
+</head>
+<body>
+    <p>This paragraph</p>
+    <div>This is div</div>
+    <label>Enter name</label>
+     <input type="text" />
+    <ol>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Dotnet</li>
+        <li>Database</li>
+    </ol>
+    <br />
+    <button id="b1">show</button>
+    <button id="b2">hide</button>
+</body>
+</html>

@@ -1,0 +1,10 @@
+﻿body
+{
+    background-color:aqua;
+}
+div
+{
+    border:5px dotted red;
+    width:200px;
+    height:150px;
+}

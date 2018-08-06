@@ -1,0 +1,16 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+c:\users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\nexwave\documents\visual studio 2015\Projects\day12assignment\WcfServiceLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\nexwave\Documents\Visual Studio 2015\Projects\day11assignment\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainingDBModelStoreContainer" CdmEntityContainer="TrainingDBEntities">
+    <EntitySetMapping Name="models">
+      <EntityTypeMapping TypeName="TrainingDBModel.model">
+        <MappingFragment StoreEntitySet="model">
+          <ScalarProperty Name="modelid" ColumnName="modelid" />
+          <ScalarProperty Name="modelname" ColumnName="modelname" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="prodid" ColumnName="prodid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="TrainingDBModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="prodid" ColumnName="prodid" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

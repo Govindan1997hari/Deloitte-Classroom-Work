@@ -1,0 +1,9 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\bin\Debug\ADOAssignment.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\bin\Debug\ADOAssignment.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\bin\Debug\ADOAssignment.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\obj\Debug\ADOAssignment.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\obj\Debug\ADOAssignment.Form1.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\obj\Debug\ADOAssignment.Properties.Resources.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\obj\Debug\ADOAssignment.csproj.GenerateResource.Cache
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\obj\Debug\ADOAssignment.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\ADOAssignment\ADOAssignment\obj\Debug\ADOAssignment.pdb

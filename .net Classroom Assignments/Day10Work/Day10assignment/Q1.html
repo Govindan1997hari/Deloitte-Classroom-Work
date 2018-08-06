@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function validate()
+        {
+            var name = document.getElementById("txtname").value;
+            if (name == "") {
+                alert("name cannot be blank");
+                return;
+            }
+            var g = "";
+            var gen = document.getElementById("gen");
+            if (gen.checked)
+                g = gen.value;
+            if (!gen.checked)
+            {
+                alert("Select Gender");
+                return;
+            }
+            var age = parseInt(document.getElementById("txtage").value);
+            if (isNaN(age)) {
+                alert("Age must be a number");
+                return;
+            }
+            var loc = document.getElementById("loc").value;
+            if (loc == "Select") {
+                alert("Select a Location");
+                return;
+            }
+            alert("Data You have Entered :" + name + "," + gen + "," + age + "," + loc);
+        }
+    </script>
+    <style>
+        .table1 {
+            text-align: justify;
+            background-color: whitesmoke;
+            border: 3px solid lightgray;
+        }
+
+        .table2 {
+            border: 3px solid gray;
+            border-collapse: collapse;
+        }
+
+        .tblhead {
+            background-color: lightgray;
+        }
+
+        .tblodd {
+            background-color: white;
+        }
+
+        .tbleven {
+            background-color: whitesmoke;
+        }
+
+        .glow {
+            border: 2px solid black;
+        }
+    </style>
+    
+</head>
+<body>
+    <table cellpadding="10">
+        <tr>
+            <td>
+                <div>
+                    <h3>List Of Persons</h3>
+                    <table class="table2" cellpadding="10">
+                        <tr class="tblhead">
+                            <th>Name</th>
+                            <th>Gender</th>
+                            <th>Age</th>
+                            <th>City</th>
+                            <th>Action</th>
+                        </tr>
+                        <tr class="tblodd">
+                            <td>Shahzad</td>
+                            <td>Male</td>
+                            <td>30</td>
+                            <td>Lahore</td>
+                            <td>Update/Remove</td>
+                        </tr>
+                        <tr class="tbleven">
+                            <td>Danial</td>
+                            <td>Male</td>
+                            <td>34</td>
+                            <td>Islamabad</td>
+                            <td>Update/Remove</td>
+                        </tr>
+                        <tr class="tblodd">
+                            <td>Sara</td>
+                            <td>Female</td>
+                            <td>34</td>
+                            <td>Karachi</td>
+                            <td>Update/Remove</td>
+                        </tr>
+                        <tr class="tbleven">
+                            <td>Tahir</td>
+                            <td>Male</td>
+                            <td>38</td>
+                            <td>Lahore</td>
+                            <td>Update/Remove</td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <h3>Add/Update Person Form</h3>
+                    <table class="table1" cellpadding="3">
+                        <tr>
+                            <td><br /></td>
+                        </tr>
+                        <tr>
+                            <td>Name:</td>
+                            <td><input class="glow" type="text" id="txtname" /></td>
+                        </tr>
+                        <tr>
+                            <td><br /></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Gender:
+                            </td>
+                            <td>
+                                <input type="radio" id="gen" name="gender" value="Male" />Male
+                                <input type="radio" id="gen" name="gender" value="Female" />Female
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><br /></td>
+                        </tr>
+                        <tr>
+                            <td>Age:</td>
+                            <td><input class="glow" type="number" id="txtage" min="1" max="99" /></td>
+                        </tr>
+                        <tr>
+                            <td><br /></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                City:
+                            </td>
+                            <td>
+                                <select class="glow" id="loc">
+                                    <option value="Select">Select</option>
+                                    <option value="Lahore">Lahore</option>
+                                    <option value="Bangalore">Bangalore</option>
+                                    <option value="Chennai">Chennai</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><br /></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button class="glow" onclick="reset()">reset</button>
+                            </td>
+                            <td>
+                                <button class="glow" onclick="validate()">add</button>
+                                <button class="glow" onclick="update()">update</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><br /></td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+
+    </table>
+</body>
+</html>

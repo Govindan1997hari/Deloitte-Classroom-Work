@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainingDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="model">
+    <Key>
+      <PropertyRef Name="modelid" />
+    </Key>
+    <Property Name="modelid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="modelname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="prodid" Type="Int32" />
+    <NavigationProperty Name="product" Relationship="Self.FK__model__prodid__1B0907CE" FromRole="model" ToRole="product" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="prodid" />
+    </Key>
+    <Property Name="prodid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="models" Relationship="Self.FK__model__prodid__1B0907CE" FromRole="product" ToRole="model" />
+  </EntityType>
+  <Association Name="FK__model__prodid__1B0907CE">
+    <End Role="product" Type="Self.product" Multiplicity="0..1" />
+    <End Role="model" Type="Self.model" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="product">
+        <PropertyRef Name="prodid" />
+      </Principal>
+      <Dependent Role="model">
+        <PropertyRef Name="prodid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TrainingDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="models" EntityType="Self.model" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <AssociationSet Name="FK__model__prodid__1B0907CE" Association="Self.FK__model__prodid__1B0907CE">
+      <End Role="product" EntitySet="products" />
+      <End Role="model" EntitySet="models" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

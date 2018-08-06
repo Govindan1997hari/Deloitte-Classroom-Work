@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\day1examples\oopsexample\bin\Debug\oopsexample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\day1examples\oopsexample\bin\Debug\oopsexample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day1examples\oopsexample\bin\Debug\oopsexample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\day1examples\oopsexample\obj\Debug\oopsexample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day1examples\oopsexample\obj\Debug\oopsexample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day1examples\oopsexample\obj\Debug\oopsexample.pdb

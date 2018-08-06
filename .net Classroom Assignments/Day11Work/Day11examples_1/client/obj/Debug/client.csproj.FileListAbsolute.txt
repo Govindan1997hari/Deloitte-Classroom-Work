@@ -1,0 +1,8 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\bin\Debug\client.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\bin\Debug\client.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\bin\Debug\client.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\obj\Debug\client.Form1.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\obj\Debug\client.Properties.Resources.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\obj\Debug\client.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\Day11examples_1\client\obj\Debug\client.pdb

@@ -1,0 +1,6 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\Attribute Example\bin\Debug\Attribute Example.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\Attribute Example\bin\Debug\Attribute Example.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\Attribute Example\bin\Debug\Attribute Example.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\Attribute Example\obj\Debug\Attribute Example.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\Attribute Example\obj\Debug\Attribute Example.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\Attribute Example\obj\Debug\Attribute Example.pdb

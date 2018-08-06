@@ -1,0 +1,16 @@
+﻿<div style="background-color:antiquewhite;font-family:'Berlin Sans FB';text-shadow:20px 12px 2px black;width:auto;height:100px">
+    <h1>Register Shopping MVC Application</h1>
+</div>
+<div style="background-color:whitesmoke;font-family:'Berlin Sans FB';color:lightblue;width:auto;height:auto">
+    <table border="1">
+        <tr>
+            <td>@Html.ActionLink("Insert New","InsertRegisterShopping","RegisterShoppingCRUD")</td>
+            <td>@Html.ActionLink("Select All","SelectAllRegisterShopping","RegisterShoppingCRUD")</td>
+            <td>@Html.ActionLink("Select By ID","SelectByID","RegisterShoppingCRUD")</td>
+            <td>@Html.ActionLink("Select And Edit","SelectAndEdit","RegisterShoppingCRUD")</td>
+        </tr>
+    </table>
+</div>
+<div style="background-color:Highlight">
+    @RenderBody();
+</div>

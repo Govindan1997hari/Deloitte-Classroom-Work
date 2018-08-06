@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function draw()
+        {
+            var draw = document.getElementById("c");
+            var ctx = draw.getContext("2d");
+            ctx.fillStyle = "rgb(200,30,70)";
+            ctx.fillRect(20, 30, 75, 100);
+        }
+    </script>
+</head>
+<body>
+    <canvas width="300"height="500" id="c">
+        your browser is messed up
+    </canvas>
+    <button onclick="draw()">Draw in canvas</button>
+</body>
+</html>

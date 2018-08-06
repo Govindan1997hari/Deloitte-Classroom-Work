@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\day2examples\Nongenericcollection\bin\Debug\Nongenericcollection.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\day2examples\Nongenericcollection\bin\Debug\Nongenericcollection.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day2examples\Nongenericcollection\bin\Debug\Nongenericcollection.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\day2examples\Nongenericcollection\obj\Debug\Nongenericcollection.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day2examples\Nongenericcollection\obj\Debug\Nongenericcollection.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day2examples\Nongenericcollection\obj\Debug\Nongenericcollection.pdb

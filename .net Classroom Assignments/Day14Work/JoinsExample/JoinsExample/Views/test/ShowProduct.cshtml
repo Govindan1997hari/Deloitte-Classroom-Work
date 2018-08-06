@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "ShowProduct";
+}
+
+<h2>ShowProduct</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Select Product</label>
+        @Html.DropDownList("ddlprod",Session["pdata"] as SelectList)
+    </div>
+    <div>
+        <input type="submit" value="ShowProduct" />
+    </div>
+     
+        if(Session["mdata"]!=null)
+        {
+            <div>
+                <label>Select Model:</label>
+                @Html.DropDownList("ddlmodel",Session["mdata"]as SelectList)
+            </div>
+        }
+    
+}

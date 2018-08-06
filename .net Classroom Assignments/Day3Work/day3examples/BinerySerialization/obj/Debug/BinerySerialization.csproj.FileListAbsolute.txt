@@ -1,0 +1,6 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\BinerySerialization\bin\Debug\BinerySerialization.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\BinerySerialization\bin\Debug\BinerySerialization.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\BinerySerialization\bin\Debug\BinerySerialization.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\BinerySerialization\obj\Debug\BinerySerialization.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\BinerySerialization\obj\Debug\BinerySerialization.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\BinerySerialization\obj\Debug\BinerySerialization.pdb

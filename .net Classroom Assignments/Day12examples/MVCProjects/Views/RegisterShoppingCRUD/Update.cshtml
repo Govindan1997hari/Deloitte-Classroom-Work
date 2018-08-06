@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+@using (Html.BeginForm())
+{ 
+    if(Session["rsdata"]!=null)
+    {
+        MVCProjects.Models.RegisterShopping rs = (MVCProjects.Models.RegisterShopping)Session["rsdata"];
+        <div>
+            <label>Id:</label>
+            <input type="text" name="txtid" id="txtid" value="@rs.Id"  readonly/>
+        </div>
+        <div>
+            <label>membership:</label>
+            <input type="text" name="txtmem" id="txtmem" value="@rs.membership" />
+        </div>
+        <div>
+            <label>Shopping Preference:</label>
+            <input type="text" name="txtshop" id="txtshop" value="@rs.shoppingpreference" />
+        </div>
+        <div>
+            <label>COD:</label>
+            <input type="text" name="txtcod" id="txtcod" value="@rs.COD" />
+        </div>
+        <div>
+            <label>password:</label>
+            <input type="text" name="txtpass" id="txtpass" value="@rs.passw" />
+        </div>
+        <div>
+            <input type="submit" value="update"  />
+        </div>
+    }
+}

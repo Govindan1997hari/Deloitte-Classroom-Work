@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script type="text/javascript">
+        function show()
+        {
+            var name = document.getElementById("txtname").value;
+            var age = document.getElementById("txtnum").value;
+            alert("name:" + name);
+            alert("Age:" + age);
+        }
+    </script>
+</head>
+<body>
+    Enter Name:<input type="text" id="txtname" /><br />
+    Enter Age:<input type="number" min="1" max="99" id="txtnum" />
+    <input type="button" value="Submit" onclick="show()" />
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\xmlserialization\bin\Debug\xmlserialization.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\xmlserialization\bin\Debug\xmlserialization.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\xmlserialization\bin\Debug\xmlserialization.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\xmlserialization\obj\Debug\xmlserialization.csprojResolveAssemblyReference.cache
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\xmlserialization\obj\Debug\xmlserialization.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day3examples\xmlserialization\obj\Debug\xmlserialization.pdb

@@ -1,0 +1,5 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\day8examples\entity\bin\Debug\entity.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\day8examples\entity\bin\Debug\entity.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\day8examples\entity\obj\Debug\entity.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day8examples\entity\obj\Debug\entity.dll
+c:\users\nexwave\documents\visual studio 2015\Projects\day8examples\entity\obj\Debug\entity.pdb

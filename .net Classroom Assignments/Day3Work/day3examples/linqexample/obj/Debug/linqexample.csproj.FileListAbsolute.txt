@@ -1,0 +1,6 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\day3examples\linqexample\bin\Debug\linqexample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\day3examples\linqexample\bin\Debug\linqexample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day3examples\linqexample\bin\Debug\linqexample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\day3examples\linqexample\obj\Debug\linqexample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day3examples\linqexample\obj\Debug\linqexample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day3examples\linqexample\obj\Debug\linqexample.pdb

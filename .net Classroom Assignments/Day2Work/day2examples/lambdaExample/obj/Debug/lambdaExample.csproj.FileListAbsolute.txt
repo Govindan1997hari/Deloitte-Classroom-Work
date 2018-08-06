@@ -1,0 +1,5 @@
+C:\Users\nexwave\documents\visual studio 2015\Projects\day2examples\lambdaExample\bin\Debug\lambdaExample.exe.config
+C:\Users\nexwave\documents\visual studio 2015\Projects\day2examples\lambdaExample\bin\Debug\lambdaExample.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day2examples\lambdaExample\bin\Debug\lambdaExample.pdb
+C:\Users\nexwave\documents\visual studio 2015\Projects\day2examples\lambdaExample\obj\Debug\lambdaExample.exe
+C:\Users\nexwave\documents\visual studio 2015\Projects\day2examples\lambdaExample\obj\Debug\lambdaExample.pdb

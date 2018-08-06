@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#b1").click(function(){
+                $("#d1").toggle(5000);
+            });
+            $("#b1").click(function () {
+                $("#d2").toggle(2000);
+            });
+        });
+    </script>
+</head>
+<body>
+    <div style="background-color:red;width:auto;height:50px" id="d1"></div>
+    <div style="background-color:blue;width:auto;height:50px" id="d2"></div>
+    <button id="b1">Toggle</button>
+</body>
+</html>
